@@ -105,6 +105,11 @@ CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 
 STRIPE_SECRET_KEY=your_stripe_secret_key
+
+ADMIN_EMAIL=your admin_email
+ADMIN_PASSWORD=your admin_password
+
+CLIENT_URL=http://localhost:5000
 ```
 
 ---
@@ -190,7 +195,7 @@ Use **Postman** to test:
 
 ## 👨‍💻 Author
 
-**Muhammad Hassan Asif**
+**Muhammad Hassan**
 
 ---
 
